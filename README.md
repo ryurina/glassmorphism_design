@@ -1,4 +1,5 @@
 # Glassmorphism design with React + TailwindCSS
+![image](https://github.com/ryurina/glassmorphism_design/assets/45909337/0e544ae6-22ce-4e8a-999c-f934c83ca294)
 
 
 # Getting Started with Create React App
